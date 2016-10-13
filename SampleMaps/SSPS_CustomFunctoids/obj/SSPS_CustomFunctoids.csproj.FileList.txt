@@ -1,0 +1,7 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\SSPS.CustomFunctoids.SSPS_CustomFunctoidsResources.resources
+obj\Debug\SSPS_CustomFunctoids.csproj.GenerateResource.Cache
+bin\Debug\SSPS.CustomFunctoids.dll
+bin\Debug\SSPS.CustomFunctoids.pdb
+obj\Debug\SSPS.CustomFunctoids.dll
+obj\Debug\SSPS.CustomFunctoids.pdb

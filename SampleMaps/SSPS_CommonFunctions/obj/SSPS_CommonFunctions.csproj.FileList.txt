@@ -1,0 +1,5 @@
+bin\Debug\SSPS_CommonFunctions.dll
+bin\Debug\SSPS_CommonFunctions.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\SSPS_CommonFunctions.dll
+obj\Debug\SSPS_CommonFunctions.pdb

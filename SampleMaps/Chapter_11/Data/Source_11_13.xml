@@ -1,0 +1,30 @@
+<ns0:AllClients xmlns:ns0="http://Test.Clients">
+    <ClientName>
+        <Name>AMY ANDREWS</Name>
+        <Sex>F</Sex>
+    </ClientName>
+    <ClientName>
+        <Name>BETTY BOOP</Name>
+        <Sex>F</Sex>
+    </ClientName>
+    <ClientName>
+        <Name>CINDY COOPER</Name>
+        <Sex>F</Sex>
+    </ClientName>
+    <ClientName>
+        <Name>DARLEEN DARK</Name>
+        <Sex>F</Sex>
+    </ClientName>
+    <ClientName>
+        <Name>ARTHUR ARCHER</Name>
+        <Sex>M</Sex>
+    </ClientName>
+    <ClientName>
+        <Name>BOB BROWN</Name>
+        <Sex>M</Sex>
+    </ClientName>
+    <ClientName>
+        <Name>CHARLES CROWN</Name>
+        <Sex>M</Sex>
+    </ClientName>
+</ns0:AllClients>

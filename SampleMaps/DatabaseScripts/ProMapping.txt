@@ -1,0 +1,3 @@
+locationID,custLastName,custFirstName,custAddr1,custAddr2,custCity,custState,custZip,custCountry,custURI
+0001,Wainwright,John,7008 Robbie Drive,,Raleigh,NC,27607,USA,114718214:01:114718214
+0002,Dawson,Jim,230 Shadowsmoke Lane,,Siler City,NC,27334,USA,114718214TEST:14:114718214TEST

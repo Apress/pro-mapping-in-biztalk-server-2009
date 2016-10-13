@@ -1,0 +1,201 @@
+﻿<VisualStudioProject>
+    <BIZTALK>
+        <Build>
+            <Settings>
+                <EditorCommon/>
+                <ProjectCommon ReferencesPath = "" />
+                <Config
+                    Name = "Development"
+                    RestartHostInstances = "False"
+                    Register = "True"
+                    Redeploy = "True"
+                    ConfigurationDatabase = "BizTalkMgmtDb"
+                    Server = "SSPS"
+                />
+                <Config
+                    Name = "Deployment"
+                    RestartHostInstances = "False"
+                    Register = "True"
+                    Redeploy = "True"
+                    ConfigurationDatabase = "BizTalkMgmtDb"
+                    Server = "SSPS"
+                />
+            </Settings>
+        </Build>
+        <OtherProjectSettings
+            CopyProjectDestinationFolder = ""
+            CopyProjectUncPath = ""
+            CopyProjectOption = "0"
+            ProjectView = "ProjectFiles"
+            ProjectTrust = "0"
+        />
+        <Files>
+            <File
+                RelPath = "SDQ_16_1.btm"
+                AutoRefreshSchema = "0"
+                ValidateTestMapOutput = "False"
+                TestMapOutputInstanceFilename = "C:\SampleMaps\Chapter_16\Data\SDQ_16_1.output.xml"
+                TestMapTargetType = "0"
+                ValidateTestMapInput = "False"
+                PropertySchemaFileName = "PropertySchema.xsd"
+                ValidateInstanceInputType = "0"
+                GenerateInstanceOutputType = "0"
+                TestMapSourceType = "1"
+                EditorOutputInstanceFilename = ""
+                TestMapInputInstanceFilename = "C:\SampleMaps\Chapter_16\Data\852.input.xml"
+                EditorInputInstanceFilename = ""
+            />
+            <File
+                RelPath = "SDQ_16_10.btm"
+                AutoRefreshSchema = "0"
+                ValidateTestMapOutput = "False"
+                TestMapOutputInstanceFilename = "C:\SampleMaps\Chapter_16\Data\SDQ_16_10.output.xml"
+                TestMapTargetType = "0"
+                ValidateTestMapInput = "True"
+                PropertySchemaFileName = "PropertySchema.xsd"
+                ValidateInstanceInputType = "0"
+                GenerateInstanceOutputType = "0"
+                TestMapSourceType = "1"
+                EditorOutputInstanceFilename = ""
+                TestMapInputInstanceFilename = "C:\SampleMaps\Chapter_16\Data\app852.input.xml"
+                EditorInputInstanceFilename = ""
+            />
+            <File
+                RelPath = "SDQ_16_3.btm"
+                AutoRefreshSchema = "0"
+                ValidateTestMapOutput = "False"
+                TestMapOutputInstanceFilename = "C:\SampleMaps\Chapter_16\Data\SDQ_16_3.output.xml"
+                TestMapTargetType = "0"
+                ValidateTestMapInput = "False"
+                PropertySchemaFileName = "PropertySchema.xsd"
+                ValidateInstanceInputType = "0"
+                GenerateInstanceOutputType = "0"
+                TestMapSourceType = "1"
+                EditorOutputInstanceFilename = ""
+                TestMapInputInstanceFilename = "C:\SampleMaps\Chapter_16\Data\852.input.xml"
+                EditorInputInstanceFilename = ""
+            />
+            <File
+                RelPath = "SDQ_16_4.btm"
+                AutoRefreshSchema = "0"
+                ValidateTestMapOutput = "False"
+                TestMapOutputInstanceFilename = "C:\SampleMaps\Chapter_16\Data\SDQ_16_4.output.xml"
+                TestMapTargetType = "0"
+                ValidateTestMapInput = "False"
+                PropertySchemaFileName = "PropertySchema.xsd"
+                ValidateInstanceInputType = "0"
+                GenerateInstanceOutputType = "0"
+                TestMapSourceType = "1"
+                EditorOutputInstanceFilename = ""
+                TestMapInputInstanceFilename = "C:\SampleMaps\Chapter_16\Data\852.input.xml"
+                EditorInputInstanceFilename = ""
+            />
+            <File
+                RelPath = "SDQ_16_5.btm"
+                AutoRefreshSchema = "0"
+                ValidateTestMapOutput = "False"
+                TestMapOutputInstanceFilename = "C:\SampleMaps\Chapter_16\Data\SDQ_16_5.output.xml"
+                TestMapTargetType = "0"
+                ValidateTestMapInput = "False"
+                PropertySchemaFileName = "PropertySchema.xsd"
+                ValidateInstanceInputType = "0"
+                GenerateInstanceOutputType = "0"
+                TestMapSourceType = "1"
+                EditorOutputInstanceFilename = ""
+                TestMapInputInstanceFilename = "C:\SampleMaps\Chapter_16\Data\852.input.xml"
+                EditorInputInstanceFilename = ""
+            />
+            <File
+                RelPath = "SDQ_16_6.btm"
+                AutoRefreshSchema = "0"
+                ValidateTestMapOutput = "True"
+                TestMapOutputInstanceFilename = "C:\SampleMaps\Chapter_16\Data\SDQ_16_6.output.xml"
+                TestMapTargetType = "0"
+                ValidateTestMapInput = "False"
+                PropertySchemaFileName = "PropertySchema.xsd"
+                ValidateInstanceInputType = "0"
+                GenerateInstanceOutputType = "0"
+                TestMapSourceType = "1"
+                EditorOutputInstanceFilename = ""
+                TestMapInputInstanceFilename = "C:\SampleMaps\Chapter_16\Data\852.input.xml"
+                EditorInputInstanceFilename = ""
+            />
+            <File
+                RelPath = "SDQ_16_7.btm"
+                AutoRefreshSchema = "0"
+                ValidateTestMapOutput = "False"
+                TestMapOutputInstanceFilename = "C:\SampleMaps\Chapter_16\Data\SDQ_16_7.output.xml"
+                TestMapTargetType = "0"
+                ValidateTestMapInput = "True"
+                PropertySchemaFileName = "PropertySchema.xsd"
+                ValidateInstanceInputType = "0"
+                GenerateInstanceOutputType = "0"
+                TestMapSourceType = "1"
+                EditorOutputInstanceFilename = ""
+                TestMapInputInstanceFilename = "C:\SampleMaps\Chapter_16\Data\app852.input.xml"
+                EditorInputInstanceFilename = ""
+            />
+            <File
+                RelPath = "SDQ_16_8.btm"
+                AutoRefreshSchema = "0"
+                ValidateTestMapOutput = "False"
+                TestMapOutputInstanceFilename = "C:\SampleMaps\Chapter_16\Data\SDQ_16_8.output.xml"
+                TestMapTargetType = "0"
+                ValidateTestMapInput = "True"
+                PropertySchemaFileName = "PropertySchema.xsd"
+                ValidateInstanceInputType = "0"
+                GenerateInstanceOutputType = "0"
+                TestMapSourceType = "1"
+                EditorOutputInstanceFilename = ""
+                TestMapInputInstanceFilename = "C:\SampleMaps\Chapter_16\Data\app852.input.xml"
+                EditorInputInstanceFilename = ""
+            />
+            <File
+                RelPath = "SDQ_16_9.btm"
+                AutoRefreshSchema = "0"
+                ValidateTestMapOutput = "False"
+                TestMapOutputInstanceFilename = "C:\SampleMaps\Chapter_16\Data\SDQ_16_9.output.xml"
+                TestMapTargetType = "0"
+                ValidateTestMapInput = "True"
+                PropertySchemaFileName = "PropertySchema.xsd"
+                ValidateInstanceInputType = "0"
+                GenerateInstanceOutputType = "0"
+                TestMapSourceType = "1"
+                EditorOutputInstanceFilename = ""
+                TestMapInputInstanceFilename = "C:\SampleMaps\Chapter_16\Data\app852.input.xml"
+                EditorInputInstanceFilename = ""
+            />
+            <File
+                RelPath = "StockStatus_01.xsd"
+                AutoRefreshSchema = "0"
+                ValidateTestMapOutput = "True"
+                TestMapOutputInstanceFilename = ""
+                TestMapTargetType = "0"
+                ValidateTestMapInput = "True"
+                PropertySchemaFileName = "PropertySchema.xsd"
+                ValidateInstanceInputType = "0"
+                GenerateInstanceOutputType = "0"
+                TestMapSourceType = "0"
+                EditorOutputInstanceFilename = ""
+                TestMapInputInstanceFilename = ""
+                EditorInputInstanceFilename = "C:\ProMapping\SampleMaps\Chapter_16\Data\app852.input.xml"
+            />
+            <File
+                RelPath = "X12_00401_852.xsd"
+                AutoRefreshSchema = "0"
+                ValidateTestMapOutput = "True"
+                TestMapOutputInstanceFilename = ""
+                TestMapTargetType = "0"
+                ValidateTestMapInput = "True"
+                PropertySchemaFileName = "PropertySchema.xsd"
+                ValidateInstanceInputType = "1"
+                GenerateInstanceOutputType = "0"
+                TestMapSourceType = "0"
+                EditorOutputInstanceFilename = ""
+                TestMapInputInstanceFilename = ""
+                EditorInputInstanceFilename = "C:\ProMapping\SampleMaps\Chapter_16\Data\852.input.edi"
+            />
+        </Files>
+    </BIZTALK>
+</VisualStudioProject>
+

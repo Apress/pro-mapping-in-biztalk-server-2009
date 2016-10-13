@@ -1,0 +1,5 @@
+bin\Debug\_TestCSharp.exe
+bin\Debug\_TestCSharp.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\_TestCSharp.exe
+obj\Debug\_TestCSharp.pdb

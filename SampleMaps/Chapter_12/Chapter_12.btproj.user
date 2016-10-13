@@ -1,0 +1,186 @@
+﻿<VisualStudioProject>
+    <BIZTALK>
+        <Build>
+            <Settings>
+                <EditorCommon/>
+                <ProjectCommon ReferencesPath = "" />
+                <Config
+                    Name = "Development"
+                    RestartHostInstances = "False"
+                    Register = "True"
+                    Redeploy = "True"
+                    ConfigurationDatabase = "BizTalkMgmtDb"
+                    Server = "SSPS"
+                />
+                <Config
+                    Name = "Deployment"
+                    RestartHostInstances = "False"
+                    Register = "True"
+                    Redeploy = "True"
+                    ConfigurationDatabase = "BizTalkMgmtDb"
+                    Server = "SSPS"
+                />
+            </Settings>
+        </Build>
+        <OtherProjectSettings
+            CopyProjectDestinationFolder = ""
+            CopyProjectUncPath = ""
+            CopyProjectOption = "0"
+            ProjectView = "ProjectFiles"
+            ProjectTrust = "0"
+        />
+        <Files>
+            <File
+                RelPath = "Looping_12_1.btm"
+                AutoRefreshSchema = "0"
+                ValidateTestMapOutput = "False"
+                TestMapOutputInstanceFilename = "C:\SampleMaps\Chapter_12\Data\Looping_12_1.output.xml"
+                TestMapTargetType = "0"
+                ValidateTestMapInput = "True"
+                PropertySchemaFileName = "PropertySchema.xsd"
+                ValidateInstanceInputType = "0"
+                GenerateInstanceOutputType = "0"
+                TestMapSourceType = "1"
+                EditorOutputInstanceFilename = ""
+                TestMapInputInstanceFilename = "C:\SampleMaps\Chapter_12\Data\Looping_12_1.input.xml"
+                EditorInputInstanceFilename = ""
+            />
+            <File
+                RelPath = "Looping_12_2.btm"
+                AutoRefreshSchema = "0"
+                ValidateTestMapOutput = "False"
+                TestMapOutputInstanceFilename = "C:\SampleMaps\Chapter_12\Data\Looping_12_2.output.xml"
+                TestMapTargetType = "0"
+                ValidateTestMapInput = "True"
+                PropertySchemaFileName = "PropertySchema.xsd"
+                ValidateInstanceInputType = "0"
+                GenerateInstanceOutputType = "0"
+                TestMapSourceType = "1"
+                EditorOutputInstanceFilename = ""
+                TestMapInputInstanceFilename = "C:\SampleMaps\Chapter_12\Data\Looping_12_1.input.xml"
+                EditorInputInstanceFilename = ""
+            />
+            <File
+                RelPath = "Looping_12_3.btm"
+                AutoRefreshSchema = "0"
+                ValidateTestMapOutput = "False"
+                TestMapOutputInstanceFilename = "C:\SampleMaps\Chapter_12\Data\Looping_12_3.output.xml"
+                TestMapTargetType = "0"
+                ValidateTestMapInput = "True"
+                PropertySchemaFileName = "PropertySchema.xsd"
+                ValidateInstanceInputType = "0"
+                GenerateInstanceOutputType = "0"
+                TestMapSourceType = "1"
+                EditorOutputInstanceFilename = ""
+                TestMapInputInstanceFilename = "C:\SampleMaps\Chapter_12\Data\Looping_12_1.input.xml"
+                EditorInputInstanceFilename = ""
+            />
+            <File
+                RelPath = "Looping_12_7.btm"
+                AutoRefreshSchema = "0"
+                ValidateTestMapOutput = "False"
+                TestMapOutputInstanceFilename = "C:\SampleMaps\Chapter_12\Data\Looping_12_7.output.xml"
+                TestMapTargetType = "0"
+                ValidateTestMapInput = "True"
+                PropertySchemaFileName = "PropertySchema.xsd"
+                ValidateInstanceInputType = "0"
+                GenerateInstanceOutputType = "0"
+                TestMapSourceType = "1"
+                EditorOutputInstanceFilename = ""
+                TestMapInputInstanceFilename = "C:\SampleMaps\Chapter_12\Data\Looping_12_7.input.xml"
+                EditorInputInstanceFilename = ""
+            />
+            <File
+                RelPath = "Looping_12_8.btm"
+                AutoRefreshSchema = "0"
+                ValidateTestMapOutput = "False"
+                TestMapOutputInstanceFilename = "C:\SampleMaps\Chapter_12\Data\Looping_12_8.output.xml"
+                TestMapTargetType = "0"
+                ValidateTestMapInput = "True"
+                PropertySchemaFileName = "PropertySchema.xsd"
+                ValidateInstanceInputType = "0"
+                GenerateInstanceOutputType = "0"
+                TestMapSourceType = "1"
+                EditorOutputInstanceFilename = ""
+                TestMapInputInstanceFilename = "C:\SampleMaps\Chapter_12\Data\Looping_12_7.input.xml"
+                EditorInputInstanceFilename = ""
+            />
+            <File
+                RelPath = "Looping_12_9.btm"
+                AutoRefreshSchema = "0"
+                ValidateTestMapOutput = "False"
+                TestMapOutputInstanceFilename = "C:\SampleMaps\Chapter_12\Data\Looping_12_9.output.xml"
+                TestMapTargetType = "0"
+                ValidateTestMapInput = "True"
+                PropertySchemaFileName = "PropertySchema.xsd"
+                ValidateInstanceInputType = "0"
+                GenerateInstanceOutputType = "0"
+                TestMapSourceType = "1"
+                EditorOutputInstanceFilename = ""
+                TestMapInputInstanceFilename = "C:\SampleMaps\Chapter_12\Data\Looping_12_7.input.xml"
+                EditorInputInstanceFilename = ""
+            />
+            <File
+                RelPath = "ManyLoops.xsd"
+                AutoRefreshSchema = "0"
+                ValidateTestMapOutput = "True"
+                TestMapOutputInstanceFilename = ""
+                TestMapTargetType = "0"
+                ValidateTestMapInput = "True"
+                PropertySchemaFileName = "PropertySchema.xsd"
+                ValidateInstanceInputType = "0"
+                GenerateInstanceOutputType = "0"
+                TestMapSourceType = "0"
+                EditorOutputInstanceFilename = ""
+                TestMapInputInstanceFilename = ""
+                EditorInputInstanceFilename = ""
+            />
+            <File
+                RelPath = "Map_12_07_Source.xsd"
+                AutoRefreshSchema = "0"
+                ValidateTestMapOutput = "True"
+                TestMapOutputInstanceFilename = ""
+                TestMapTargetType = "0"
+                ValidateTestMapInput = "True"
+                PropertySchemaFileName = "PropertySchema.xsd"
+                ValidateInstanceInputType = "0"
+                GenerateInstanceOutputType = "0"
+                TestMapSourceType = "0"
+                EditorOutputInstanceFilename = ""
+                TestMapInputInstanceFilename = ""
+                EditorInputInstanceFilename = ""
+            />
+            <File
+                RelPath = "Map_12_07_TargetFile.xsd"
+                AutoRefreshSchema = "0"
+                ValidateTestMapOutput = "True"
+                TestMapOutputInstanceFilename = ""
+                TestMapTargetType = "0"
+                ValidateTestMapInput = "True"
+                PropertySchemaFileName = "PropertySchema.xsd"
+                ValidateInstanceInputType = "0"
+                GenerateInstanceOutputType = "0"
+                TestMapSourceType = "0"
+                EditorOutputInstanceFilename = ""
+                TestMapInputInstanceFilename = ""
+                EditorInputInstanceFilename = ""
+            />
+            <File
+                RelPath = "OneLoop.xsd"
+                AutoRefreshSchema = "0"
+                ValidateTestMapOutput = "True"
+                TestMapOutputInstanceFilename = ""
+                TestMapTargetType = "0"
+                ValidateTestMapInput = "True"
+                PropertySchemaFileName = "PropertySchema.xsd"
+                ValidateInstanceInputType = "0"
+                GenerateInstanceOutputType = "0"
+                TestMapSourceType = "0"
+                EditorOutputInstanceFilename = ""
+                TestMapInputInstanceFilename = ""
+                EditorInputInstanceFilename = ""
+            />
+        </Files>
+    </BIZTALK>
+</VisualStudioProject>
+

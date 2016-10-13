@@ -1,0 +1,144 @@
+﻿<VisualStudioProject>
+    <BIZTALK
+        ProductVersion = "3.6.1404"
+        SchemaVersion = "1.0"
+        ProjectGuid = "{CB03EABD-DDB3-4033-A287-1DFC87299166}"
+    >
+        <Build>
+            <Settings>
+                <EditorCommon/>
+                <ProjectCommon
+                    AssemblyKeyName = ""
+                    AssemblyKeyFile = ""
+                    AssemblyDelaySign = "False"
+                    AssemblyTitle = ""
+                    AssemblyDescription = ""
+                    AssemblyDefaultAlias = ""
+                    AssemblyConfiguration = ""
+                    AssemblyTrademark = ""
+                    AssemblyProduct = ""
+                    AssemblyInformationalVersion = "1.0.0.0"
+                    AssemblyFileVersion = "1.0.0.0"
+                    AssemblyCopyright = ""
+                    AssemblyCompany = ""
+                    AssemblyVersion = "1.0.0.0"
+                    DefaultNamespace = "Chapter_05"
+                    AssemblyName = "Chapter_05"
+                />
+                <Config
+                    Name = "Development"
+                    ApplicationName = ""
+                    BpelCompliance = "True"
+                    GenerateDebuggingInformation = "True"
+                    EmbedTrackingInformation = "True"
+                    TreatWarningsAsErrors = "False"
+                    WarningLevel = "4"
+                    OutputPath = "bin\Development\"
+                />
+                <Config
+                    Name = "Deployment"
+                    ApplicationName = ""
+                    BpelCompliance = "True"
+                    GenerateDebuggingInformation = "False"
+                    EmbedTrackingInformation = "True"
+                    TreatWarningsAsErrors = "False"
+                    WarningLevel = "4"
+                    OutputPath = "bin\Deployment\"
+                />
+            </Settings>
+            <References>
+                <Reference
+                    Name = "System"
+                    AssemblyName = "System"
+                />
+                <Reference
+                    Name = "System.XML"
+                    AssemblyName = "System.Xml"
+                />
+                <Reference
+                    Name = "System.configuration"
+                    AssemblyName = "System.Configuration"
+                />
+                <Reference
+                    Name = "Microsoft.BizTalk.DefaultPipelines"
+                    AssemblyName = "Microsoft.BizTalk.DefaultPipelines"
+                />
+                <Reference
+                    Name = "Microsoft.BizTalk.GlobalPropertySchemas"
+                    AssemblyName = "Microsoft.BizTalk.GlobalPropertySchemas"
+                />
+            </References>
+        </Build>
+        <Files>
+            <Include>
+                <File
+                    RelPath = "Cond02_SimpleIf.btm"
+                    BuildAction = "Compile"
+                    Namespace = "Chapter_05"
+                    Type = "Cond02_SimpleIf"
+                />
+                <File
+                    RelPath = "Conditional_05_1.btm"
+                    BuildAction = "Compile"
+                    Namespace = "Chapter_05"
+                    Type = "Conditional_05_1"
+                />
+                <File
+                    RelPath = "Conditional_05_2.btm"
+                    BuildAction = "Compile"
+                    Namespace = "Chapter_05"
+                    Type = "Conditional_05_2"
+                />
+                <File
+                    RelPath = "Conditional_05_3.btm"
+                    BuildAction = "Compile"
+                    Namespace = "Chapter_05"
+                    Type = "Conditional_05_3"
+                />
+                <File
+                    RelPath = "Conditional_05_4.btm"
+                    BuildAction = "Compile"
+                    Namespace = "Chapter_05"
+                    Type = "Conditional_05_4"
+                />
+                <File
+                    RelPath = "Conditional_05_5.btm"
+                    BuildAction = "Compile"
+                    Namespace = "Chapter_05"
+                    Type = "Conditional_05_5"
+                />
+                <File
+                    RelPath = "Conditional_05_6.btm"
+                    BuildAction = "Compile"
+                    Namespace = "Chapter_05"
+                    Type = "Conditional_05_6"
+                />
+                <File
+                    RelPath = "Conditional_05_7.btm"
+                    BuildAction = "Compile"
+                    Namespace = "Chapter_05"
+                    Type = "Conditional_05_7"
+                />
+                <File
+                    RelPath = "Conditional_05_8.btm"
+                    BuildAction = "Compile"
+                    Namespace = "Chapter_05"
+                    Type = "Conditional_05_8"
+                />
+                <File
+                    RelPath = "SourceFile.xsd"
+                    BuildAction = "Compile"
+                    Namespace = "Chapter_05"
+                    Type = "SourceFile"
+                />
+                <File
+                    RelPath = "TargetFile.xsd"
+                    BuildAction = "Compile"
+                    Namespace = "Chapter_05"
+                    Type = "TargetFile"
+                />
+            </Include>
+        </Files>
+    </BIZTALK>
+</VisualStudioProject>
+

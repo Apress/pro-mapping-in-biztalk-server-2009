@@ -1,0 +1,1 @@
+﻿<ns0:Target xmlns:ns0="http://chapter9.Target1"><TargetRecord><TargetRecordData>SourceRecordData</TargetRecordData></TargetRecord><TargetLoop><TargetA>SourceRecordData</TargetA></TargetLoop><TargetLoop2><TargetA2>SourceRecordData</TargetA2></TargetLoop2><TargetLoop3><TargetA3>SourceRecordData</TargetA3></TargetLoop3></ns0:Target>

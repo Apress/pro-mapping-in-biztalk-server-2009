@@ -1,0 +1,7 @@
+<ns0:StoreSource xmlns:ns0="http://chapter9.StoreSource">
+<Stores>
+<Store>Store</Store> 
+<Store></Store> 
+<Store>Store</Store> 
+</Stores>
+</ns0:StoreSource>

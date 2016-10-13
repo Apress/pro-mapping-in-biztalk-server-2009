@@ -1,0 +1,150 @@
+﻿<VisualStudioProject>
+    <BIZTALK
+        ProductVersion = "3.6.1404"
+        SchemaVersion = "1.0"
+        ProjectGuid = "{585BF47F-0E29-4CE4-A20D-703D368907B5}"
+    >
+        <Build>
+            <Settings>
+                <EditorCommon/>
+                <ProjectCommon
+                    AssemblyKeyName = ""
+                    AssemblyKeyFile = ""
+                    AssemblyDelaySign = "False"
+                    AssemblyTitle = ""
+                    AssemblyDescription = ""
+                    AssemblyDefaultAlias = ""
+                    AssemblyConfiguration = ""
+                    AssemblyTrademark = ""
+                    AssemblyProduct = ""
+                    AssemblyInformationalVersion = "1.0.0.0"
+                    AssemblyFileVersion = "1.0.0.0"
+                    AssemblyCopyright = ""
+                    AssemblyCompany = ""
+                    AssemblyVersion = "1.0.0.0"
+                    DefaultNamespace = "Chapter_17"
+                    AssemblyName = "Chapter_17"
+                />
+                <Config
+                    Name = "Development"
+                    ApplicationName = ""
+                    BpelCompliance = "True"
+                    GenerateDebuggingInformation = "True"
+                    EmbedTrackingInformation = "True"
+                    TreatWarningsAsErrors = "False"
+                    WarningLevel = "4"
+                    OutputPath = "bin\Development\"
+                />
+                <Config
+                    Name = "Deployment"
+                    ApplicationName = ""
+                    BpelCompliance = "True"
+                    GenerateDebuggingInformation = "False"
+                    EmbedTrackingInformation = "True"
+                    TreatWarningsAsErrors = "False"
+                    WarningLevel = "4"
+                    OutputPath = "bin\Deployment\"
+                />
+            </Settings>
+            <References>
+                <Reference
+                    Name = "System"
+                    AssemblyName = "System"
+                />
+                <Reference
+                    Name = "System.XML"
+                    AssemblyName = "System.Xml"
+                />
+                <Reference
+                    Name = "System.configuration"
+                    AssemblyName = "System.Configuration"
+                />
+                <Reference
+                    Name = "Microsoft.BizTalk.DefaultPipelines"
+                    AssemblyName = "Microsoft.BizTalk.DefaultPipelines"
+                />
+                <Reference
+                    Name = "Microsoft.BizTalk.GlobalPropertySchemas"
+                    AssemblyName = "Microsoft.BizTalk.GlobalPropertySchemas"
+                />
+            </References>
+        </Build>
+        <Files>
+            <Include>
+                <File
+                    RelPath = "ApplicationASN.xsd"
+                    BuildAction = "Compile"
+                    Namespace = "Chapter_17"
+                    Type = "ApplicationASN"
+                />
+                <File
+                    RelPath = "ASN_17_1.btm"
+                    BuildAction = "Compile"
+                    Namespace = "Chapter_17"
+                    Type = "Map2"
+                />
+                <File
+                    RelPath = "ASN_17_3.btm"
+                    BuildAction = "Compile"
+                    Namespace = "Chapter_17"
+                    Type = "Newob856"
+                />
+                <File
+                    RelPath = "ASN_17_7.btm"
+                    BuildAction = "Compile"
+                    Namespace = "Chapter_17"
+                    Type = "ASN_17_7"
+                />
+                <File
+                    RelPath = "ASN_App_schema.xsd"
+                    BuildAction = "Compile"
+                    Namespace = "Chapter_17"
+                    Type = "ASN_App_schema"
+                />
+                <File
+                    RelPath = "Map1.btm"
+                    BuildAction = "Compile"
+                    Namespace = "Chapter_17"
+                    Type = "Map1"
+                />
+                <File
+                    RelPath = "Map2.btm"
+                    BuildAction = "Compile"
+                    Namespace = "Chapter_17"
+                    Type = "Map21"
+                />
+                <File
+                    RelPath = "Map3.btm"
+                    BuildAction = "Compile"
+                    Namespace = "Chapter_17"
+                    Type = "Map3"
+                />
+                <File
+                    RelPath = "Newob856.btm"
+                    BuildAction = "Compile"
+                    Namespace = "Chapter_17"
+                    Type = "Newob8561"
+                />
+                <File
+                    RelPath = "OB856_4010_Map.btm"
+                    BuildAction = "Compile"
+                    Namespace = "Chapter_17"
+                    Type = "OB856_4010_Map1"
+                />
+                <File
+                    RelPath = "OB856_XML_schema.xsd"
+                    BuildAction = "Compile"
+                    Namespace = "Chapter_17"
+                    Type = "OB856_XML_schema"
+                />
+                <File
+                    RelPath = "X12_00401_856.xsd"
+                    BuildAction = "Compile"
+                    Namespace = "Chapter_17"
+                    Type = "X12_00401_856"
+                />
+            </Include>
+        </Files>
+    </BIZTALK>
+</VisualStudioProject>
+

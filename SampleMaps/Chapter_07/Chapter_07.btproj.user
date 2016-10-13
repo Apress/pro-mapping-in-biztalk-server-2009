@@ -1,0 +1,201 @@
+﻿<VisualStudioProject>
+    <BIZTALK>
+        <Build>
+            <Settings>
+                <EditorCommon/>
+                <ProjectCommon ReferencesPath = "" />
+                <Config
+                    Name = "Development"
+                    RestartHostInstances = "False"
+                    Register = "True"
+                    Redeploy = "True"
+                    ConfigurationDatabase = "BizTalkMgmtDb"
+                    Server = "SSPS"
+                />
+                <Config
+                    Name = "Deployment"
+                    RestartHostInstances = "False"
+                    Register = "True"
+                    Redeploy = "True"
+                    ConfigurationDatabase = "BizTalkMgmtDb"
+                    Server = "SSPS"
+                />
+            </Settings>
+        </Build>
+        <OtherProjectSettings
+            CopyProjectDestinationFolder = ""
+            CopyProjectUncPath = ""
+            CopyProjectOption = "0"
+            ProjectView = "ProjectFiles"
+            ProjectTrust = "0"
+        />
+        <Files>
+            <File
+                RelPath = "AddressSource.xsd"
+                AutoRefreshSchema = "0"
+                ValidateTestMapOutput = "True"
+                TestMapOutputInstanceFilename = ""
+                TestMapTargetType = "0"
+                ValidateTestMapInput = "True"
+                PropertySchemaFileName = "PropertySchema.xsd"
+                ValidateInstanceInputType = "0"
+                GenerateInstanceOutputType = "0"
+                TestMapSourceType = "0"
+                EditorOutputInstanceFilename = ""
+                TestMapInputInstanceFilename = ""
+                EditorInputInstanceFilename = ""
+            />
+            <File
+                RelPath = "AddressTarget.xsd"
+                AutoRefreshSchema = "0"
+                ValidateTestMapOutput = "True"
+                TestMapOutputInstanceFilename = ""
+                TestMapTargetType = "0"
+                ValidateTestMapInput = "True"
+                PropertySchemaFileName = "PropertySchema.xsd"
+                ValidateInstanceInputType = "0"
+                GenerateInstanceOutputType = "0"
+                TestMapSourceType = "0"
+                EditorOutputInstanceFilename = ""
+                TestMapInputInstanceFilename = ""
+                EditorInputInstanceFilename = ""
+            />
+            <File
+                RelPath = "NumbersInvoice.xsd"
+                AutoRefreshSchema = "0"
+                ValidateTestMapOutput = "True"
+                TestMapOutputInstanceFilename = ""
+                TestMapTargetType = "0"
+                ValidateTestMapInput = "True"
+                PropertySchemaFileName = "PropertySchema.xsd"
+                ValidateInstanceInputType = "0"
+                GenerateInstanceOutputType = "0"
+                TestMapSourceType = "0"
+                EditorOutputInstanceFilename = ""
+                TestMapInputInstanceFilename = ""
+                EditorInputInstanceFilename = ""
+            />
+            <File
+                RelPath = "NumbersTargetFile.xsd"
+                AutoRefreshSchema = "0"
+                ValidateTestMapOutput = "True"
+                TestMapOutputInstanceFilename = ""
+                TestMapTargetType = "0"
+                ValidateTestMapInput = "True"
+                PropertySchemaFileName = "PropertySchema.xsd"
+                ValidateInstanceInputType = "0"
+                GenerateInstanceOutputType = "0"
+                TestMapSourceType = "0"
+                EditorOutputInstanceFilename = ""
+                TestMapInputInstanceFilename = ""
+                EditorInputInstanceFilename = ""
+            />
+            <File
+                RelPath = "Strings_07_1.btm"
+                AutoRefreshSchema = "0"
+                ValidateTestMapOutput = "False"
+                TestMapOutputInstanceFilename = "C:\SampleMaps\Chapter_07\Data\Strings_07_1.output.xml"
+                TestMapTargetType = "0"
+                ValidateTestMapInput = "True"
+                PropertySchemaFileName = "PropertySchema.xsd"
+                ValidateInstanceInputType = "0"
+                GenerateInstanceOutputType = "0"
+                TestMapSourceType = "1"
+                EditorOutputInstanceFilename = ""
+                TestMapInputInstanceFilename = "C:\SampleMaps\Chapter_07\Data\Strings.input.xml"
+                EditorInputInstanceFilename = ""
+            />
+            <File
+                RelPath = "Strings_07_2.btm"
+                AutoRefreshSchema = "0"
+                ValidateTestMapOutput = "False"
+                TestMapOutputInstanceFilename = "C:\SampleMaps\Chapter_07\Data\Strings_07_2.output.xml"
+                TestMapTargetType = "0"
+                ValidateTestMapInput = "True"
+                PropertySchemaFileName = "PropertySchema.xsd"
+                ValidateInstanceInputType = "0"
+                GenerateInstanceOutputType = "0"
+                TestMapSourceType = "1"
+                EditorOutputInstanceFilename = ""
+                TestMapInputInstanceFilename = "C:\SampleMaps\Chapter_07\Data\StringsInvoice.input.xml"
+                EditorInputInstanceFilename = ""
+            />
+            <File
+                RelPath = "Strings_07_3.btm"
+                AutoRefreshSchema = "0"
+                ValidateTestMapOutput = "False"
+                TestMapOutputInstanceFilename = "C:\SampleMaps\Chapter_07\Data\Strings_07_3.output.xml"
+                TestMapTargetType = "0"
+                ValidateTestMapInput = "True"
+                PropertySchemaFileName = "PropertySchema.xsd"
+                ValidateInstanceInputType = "0"
+                GenerateInstanceOutputType = "0"
+                TestMapSourceType = "1"
+                EditorOutputInstanceFilename = ""
+                TestMapInputInstanceFilename = "C:\SampleMaps\Chapter_07\Data\StringsInvoice.input.xml"
+                EditorInputInstanceFilename = ""
+            />
+            <File
+                RelPath = "Strings_07_4.btm"
+                AutoRefreshSchema = "0"
+                ValidateTestMapOutput = "False"
+                TestMapOutputInstanceFilename = "C:\SampleMaps\Chapter_07\Data\Strings_07_4.output.xml"
+                TestMapTargetType = "0"
+                ValidateTestMapInput = "True"
+                PropertySchemaFileName = "PropertySchema.xsd"
+                ValidateInstanceInputType = "0"
+                GenerateInstanceOutputType = "0"
+                TestMapSourceType = "1"
+                EditorOutputInstanceFilename = ""
+                TestMapInputInstanceFilename = "C:\SampleMaps\Chapter_07\Data\Strings.input.xml"
+                EditorInputInstanceFilename = ""
+            />
+            <File
+                RelPath = "Strings_07_6.btm"
+                AutoRefreshSchema = "0"
+                ValidateTestMapOutput = "False"
+                TestMapOutputInstanceFilename = "C:\SampleMaps\Chapter_07\Data\Strings_07_6.output.xml"
+                TestMapTargetType = "0"
+                ValidateTestMapInput = "True"
+                PropertySchemaFileName = "PropertySchema.xsd"
+                ValidateInstanceInputType = "0"
+                GenerateInstanceOutputType = "0"
+                TestMapSourceType = "1"
+                EditorOutputInstanceFilename = ""
+                TestMapInputInstanceFilename = "C:\SampleMaps\Chapter_07\Data\StringsInvoice.input.xml"
+                EditorInputInstanceFilename = ""
+            />
+            <File
+                RelPath = "Strings_07_7.btm"
+                AutoRefreshSchema = "0"
+                ValidateTestMapOutput = "False"
+                TestMapOutputInstanceFilename = "C:\SampleMaps\Chapter_07\Data\Strings_07_7.output.xml"
+                TestMapTargetType = "0"
+                ValidateTestMapInput = "True"
+                PropertySchemaFileName = "PropertySchema.xsd"
+                ValidateInstanceInputType = "0"
+                GenerateInstanceOutputType = "0"
+                TestMapSourceType = "1"
+                EditorOutputInstanceFilename = ""
+                TestMapInputInstanceFilename = "C:\SampleMaps\Chapter_07\Data\StringsInvoice.input.xml"
+                EditorInputInstanceFilename = ""
+            />
+            <File
+                RelPath = "Strings_RegEx.btm"
+                AutoRefreshSchema = "0"
+                ValidateTestMapOutput = "False"
+                TestMapOutputInstanceFilename = "C:\SampleMaps\Chapter_07\Data\Strings_RegEx.output.xml"
+                TestMapTargetType = "0"
+                ValidateTestMapInput = "True"
+                PropertySchemaFileName = "PropertySchema.xsd"
+                ValidateInstanceInputType = "0"
+                GenerateInstanceOutputType = "0"
+                TestMapSourceType = "1"
+                EditorOutputInstanceFilename = ""
+                TestMapInputInstanceFilename = "C:\SampleMaps\Chapter_07\Data\StringsInvoice.input.xml"
+                EditorInputInstanceFilename = ""
+            />
+        </Files>
+    </BIZTALK>
+</VisualStudioProject>
+

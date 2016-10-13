@@ -1,0 +1,2 @@
+0001|John|Wainwright|7008 Robbie Drive||Raleigh|NC|27607|USA
+0002|Jim|Dawson|230 Shadowsmoke Lane||Siler City|NC|27344|USA

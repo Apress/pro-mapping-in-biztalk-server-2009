@@ -1,0 +1,21 @@
+<ns0:Source xmlns:ns0="http://Test.forcing2">
+    <Dates>
+        <EffectiveDate>EffectiveDate</EffectiveDate>
+        <EndingDate>EndingDate</EndingDate>
+    </Dates>
+    <Users>
+        <UserCode>AA</UserCode>
+        <Name>ANDY</Name>
+        <Company>ACME</Company>
+    </Users>
+    <Users>
+        <UserCode>BT</UserCode>
+        <Name>BEN</Name>
+        <Company>BISCUIT</Company>
+    </Users>
+    <Users>
+        <UserCode>CC</UserCode>
+        <Name>CHARLIE</Name>
+        <Company>CRISCO</Company>
+    </Users>
+</ns0:Source>

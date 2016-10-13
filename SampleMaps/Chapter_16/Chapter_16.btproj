@@ -1,0 +1,144 @@
+﻿<VisualStudioProject>
+    <BIZTALK
+        ProductVersion = "3.6.1404"
+        SchemaVersion = "1.0"
+        ProjectGuid = "{26096BDF-1A5C-4EC7-BBA7-2F9672D5CC35}"
+    >
+        <Build>
+            <Settings>
+                <EditorCommon/>
+                <ProjectCommon
+                    AssemblyKeyName = ""
+                    AssemblyKeyFile = ""
+                    AssemblyDelaySign = "False"
+                    AssemblyTitle = ""
+                    AssemblyDescription = ""
+                    AssemblyDefaultAlias = ""
+                    AssemblyConfiguration = ""
+                    AssemblyTrademark = ""
+                    AssemblyProduct = ""
+                    AssemblyInformationalVersion = "1.0.0.0"
+                    AssemblyFileVersion = "1.0.0.0"
+                    AssemblyCopyright = ""
+                    AssemblyCompany = ""
+                    AssemblyVersion = "1.0.0.0"
+                    DefaultNamespace = "Chapter_16"
+                    AssemblyName = "Chapter_16"
+                />
+                <Config
+                    Name = "Development"
+                    ApplicationName = ""
+                    BpelCompliance = "True"
+                    GenerateDebuggingInformation = "True"
+                    EmbedTrackingInformation = "True"
+                    TreatWarningsAsErrors = "False"
+                    WarningLevel = "4"
+                    OutputPath = "bin\Development\"
+                />
+                <Config
+                    Name = "Deployment"
+                    ApplicationName = ""
+                    BpelCompliance = "True"
+                    GenerateDebuggingInformation = "False"
+                    EmbedTrackingInformation = "True"
+                    TreatWarningsAsErrors = "False"
+                    WarningLevel = "4"
+                    OutputPath = "bin\Deployment\"
+                />
+            </Settings>
+            <References>
+                <Reference
+                    Name = "System"
+                    AssemblyName = "System"
+                />
+                <Reference
+                    Name = "System.XML"
+                    AssemblyName = "System.Xml"
+                />
+                <Reference
+                    Name = "System.configuration"
+                    AssemblyName = "System.Configuration"
+                />
+                <Reference
+                    Name = "Microsoft.BizTalk.DefaultPipelines"
+                    AssemblyName = "Microsoft.BizTalk.DefaultPipelines"
+                />
+                <Reference
+                    Name = "Microsoft.BizTalk.GlobalPropertySchemas"
+                    AssemblyName = "Microsoft.BizTalk.GlobalPropertySchemas"
+                />
+            </References>
+        </Build>
+        <Files>
+            <Include>
+                <File
+                    RelPath = "SDQ_16_1.btm"
+                    BuildAction = "Compile"
+                    Namespace = "Chapter_16"
+                    Type = "SDQ_16_1"
+                />
+                <File
+                    RelPath = "SDQ_16_10.btm"
+                    BuildAction = "Compile"
+                    Namespace = "Chapter_16"
+                    Type = "SDQ_16_10"
+                />
+                <File
+                    RelPath = "SDQ_16_3.btm"
+                    BuildAction = "Compile"
+                    Namespace = "Chapter_16"
+                    Type = "SDQ_16_3"
+                />
+                <File
+                    RelPath = "SDQ_16_4.btm"
+                    BuildAction = "Compile"
+                    Namespace = "Chapter_16"
+                    Type = "SDQ_16_4"
+                />
+                <File
+                    RelPath = "SDQ_16_5.btm"
+                    BuildAction = "Compile"
+                    Namespace = "Chapter_16"
+                    Type = "SDQ_16_5"
+                />
+                <File
+                    RelPath = "SDQ_16_6.btm"
+                    BuildAction = "Compile"
+                    Namespace = "Chapter_16"
+                    Type = "SDQ_16_6"
+                />
+                <File
+                    RelPath = "SDQ_16_7.btm"
+                    BuildAction = "Compile"
+                    Namespace = "Chapter_16"
+                    Type = "SDQ_16_7"
+                />
+                <File
+                    RelPath = "SDQ_16_8.btm"
+                    BuildAction = "Compile"
+                    Namespace = "Chapter_16"
+                    Type = "SDQ_16_8"
+                />
+                <File
+                    RelPath = "SDQ_16_9.btm"
+                    BuildAction = "Compile"
+                    Namespace = "Chapter_16"
+                    Type = "SDQ_16_9"
+                />
+                <File
+                    RelPath = "StockStatus_01.xsd"
+                    BuildAction = "Compile"
+                    Namespace = "Chapter_16"
+                    Type = "StockStatus_01"
+                />
+                <File
+                    RelPath = "X12_00401_852.xsd"
+                    BuildAction = "Compile"
+                    Namespace = "Chapter_16"
+                    Type = "X12_00401_852"
+                />
+            </Include>
+        </Files>
+    </BIZTALK>
+</VisualStudioProject>
+

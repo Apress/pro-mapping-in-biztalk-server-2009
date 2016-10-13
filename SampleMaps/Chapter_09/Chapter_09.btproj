@@ -1,0 +1,161 @@
+﻿<VisualStudioProject>
+    <BIZTALK
+        ProductVersion = "3.6.1404"
+        SchemaVersion = "1.0"
+        ProjectGuid = "{5D939E1F-ED78-48FA-98EF-EDDC74EA381B}"
+    >
+        <Build>
+            <Settings>
+                <EditorCommon/>
+                <ProjectCommon
+                    AssemblyKeyName = ""
+                    AssemblyKeyFile = ""
+                    AssemblyDelaySign = "False"
+                    AssemblyTitle = ""
+                    AssemblyDescription = ""
+                    AssemblyDefaultAlias = ""
+                    AssemblyConfiguration = ""
+                    AssemblyTrademark = ""
+                    AssemblyProduct = ""
+                    AssemblyInformationalVersion = "1.0.0.0"
+                    AssemblyFileVersion = "1.0.0.0"
+                    AssemblyCopyright = ""
+                    AssemblyCompany = ""
+                    AssemblyVersion = "1.0.0.0"
+                    DefaultNamespace = "Chapter_09"
+                    AssemblyName = "Chapter_09"
+                />
+                <Config
+                    Name = "Development"
+                    ApplicationName = ""
+                    BpelCompliance = "True"
+                    GenerateDebuggingInformation = "True"
+                    EmbedTrackingInformation = "True"
+                    TreatWarningsAsErrors = "False"
+                    WarningLevel = "4"
+                    OutputPath = "bin\Development\"
+                />
+                <Config
+                    Name = "Deployment"
+                    ApplicationName = ""
+                    BpelCompliance = "True"
+                    GenerateDebuggingInformation = "False"
+                    EmbedTrackingInformation = "True"
+                    TreatWarningsAsErrors = "False"
+                    WarningLevel = "4"
+                    OutputPath = "bin\Deployment\"
+                />
+            </Settings>
+            <References>
+                <Reference
+                    Name = "System"
+                    AssemblyName = "System"
+                />
+                <Reference
+                    Name = "System.XML"
+                    AssemblyName = "System.Xml"
+                />
+                <Reference
+                    Name = "System.configuration"
+                    AssemblyName = "System.Configuration"
+                />
+                <Reference
+                    Name = "Microsoft.BizTalk.DefaultPipelines"
+                    AssemblyName = "Microsoft.BizTalk.DefaultPipelines"
+                />
+                <Reference
+                    Name = "Microsoft.BizTalk.GlobalPropertySchemas"
+                    AssemblyName = "Microsoft.BizTalk.GlobalPropertySchemas"
+                />
+            </References>
+        </Build>
+        <Files>
+            <Include>
+                <File
+                    RelPath = "Collecting_9_1.btm"
+                    BuildAction = "Compile"
+                    Namespace = "Chapter_09"
+                    Type = "Collecting_9_1"
+                />
+                <File
+                    RelPath = "Collecting_9_10.btm"
+                    BuildAction = "Compile"
+                    Namespace = "Chapter_09"
+                    Type = "Collecting_9_10"
+                />
+                <File
+                    RelPath = "Collecting_9_2.btm"
+                    BuildAction = "Compile"
+                    Namespace = "Chapter_09"
+                    Type = "Collecting_9_2"
+                />
+                <File
+                    RelPath = "Collecting_9_3.btm"
+                    BuildAction = "Compile"
+                    Namespace = "chapter9"
+                    Type = "Collecting_9_3"
+                />
+                <File
+                    RelPath = "Collecting_9_4.btm"
+                    BuildAction = "Compile"
+                    Type = "Collecting_9_4"
+                />
+                <File
+                    RelPath = "Collecting_9_5.btm"
+                    BuildAction = "Compile"
+                    Namespace = "Chapter_09"
+                    Type = "Collecting_9_5"
+                />
+                <File
+                    RelPath = "Collecting_9_6.btm"
+                    BuildAction = "Compile"
+                    Namespace = "Chapter_09"
+                    Type = "Collecting_9_6"
+                />
+                <File
+                    RelPath = "Collecting_9_7.btm"
+                    BuildAction = "Compile"
+                    Namespace = "Chapter_09"
+                    Type = "Collecting_9_7"
+                />
+                <File
+                    RelPath = "Source1.xsd"
+                    BuildAction = "Compile"
+                    Namespace = "Chapter_09"
+                    Type = "Source1"
+                />
+                <File
+                    RelPath = "Source2.xsd"
+                    BuildAction = "Compile"
+                    Namespace = "Chapter_09"
+                    Type = "Source2"
+                />
+                <File
+                    RelPath = "StoreSource.xsd"
+                    BuildAction = "Compile"
+                    Namespace = "Chapter_09"
+                    Type = "StoreSource"
+                />
+                <File
+                    RelPath = "StoreTarget.xsd"
+                    BuildAction = "Compile"
+                    Namespace = "Chapter_09"
+                    Type = "StoreTarget"
+                />
+                <File
+                    RelPath = "Target1.xsd"
+                    BuildAction = "Compile"
+                    Namespace = "Chapter_09"
+                    Type = "Target1"
+                />
+                <File
+                    RelPath = "Target2.xsd"
+                    BuildAction = "Compile"
+                    Namespace = "Chapter_09"
+                    Type = "Target2"
+                />
+            </Include>
+        </Files>
+    </BIZTALK>
+</VisualStudioProject>
+

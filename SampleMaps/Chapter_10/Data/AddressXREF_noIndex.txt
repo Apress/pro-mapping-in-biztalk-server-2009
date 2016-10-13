@@ -1,0 +1,3 @@
+John|Wainwright|7008 Robbie Drive||Raleigh|NC|27607|USA|
+Jane|Smith|230 Shadowsmoke Lane||Montreal|QC||CAN|
+Jim|Dawson|230 Shadowsmoke Lane||Siler City|NC|27344|USA|

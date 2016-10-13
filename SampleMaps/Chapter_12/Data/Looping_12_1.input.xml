@@ -1,0 +1,26 @@
+<ns0:Source xmlns:ns0="http://Chapter_12.ManyLoops">
+<PalletLoop>
+<PalletNumber>Pallet 1</PalletNumber> 
+</PalletLoop>
+<PalletLoop>
+<PalletNumber>Pallet 2</PalletNumber> 
+</PalletLoop>
+<CartonLoop>
+<CartonNumber>Carton 1</CartonNumber> 
+<PackageLoop>
+<PackageNumber>Package 1a</PackageNumber> 
+</PackageLoop>
+<PackageLoop>
+<PackageNumber>Package1b</PackageNumber> 
+</PackageLoop>
+</CartonLoop>
+<CartonLoop>
+<CartonNumber>Carton 2</CartonNumber> 
+<PackageLoop>
+<PackageNumber>Package 2a</PackageNumber> 
+</PackageLoop>
+<PackageLoop>
+<PackageNumber>Package 2b</PackageNumber> 
+</PackageLoop>
+</CartonLoop>
+</ns0:Source>

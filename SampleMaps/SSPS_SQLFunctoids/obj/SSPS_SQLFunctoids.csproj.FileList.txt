@@ -1,0 +1,7 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\SSPS_SQLFunctoids.csproj.GenerateResource.Cache
+bin\Debug\SSPS.SQLFunctoids.dll
+bin\Debug\SSPS.SQLFunctoids.pdb
+obj\Debug\SSPS.SQLFunctoids.SQLFunctionsResources.resources
+obj\Debug\SSPS.SQLFunctoids.dll
+obj\Debug\SSPS.SQLFunctoids.pdb

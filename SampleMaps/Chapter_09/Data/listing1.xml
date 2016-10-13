@@ -1,0 +1,20 @@
+<ns0:Source xmlns:ns0="http://chapter9.Source1">
+  <SourceRecord>  
+    <SourceRecordData>SourceRecordData</SourceRecordData> 
+  </SourceRecord>
+  <SourceLoop>
+    <SourceA>A1</SourceA> 
+    <SourceB>B1</SourceB> 
+    <SourceC>C1</SourceC> 
+    </SourceLoop>
+  <SourceLoop>
+    <SourceA>A2</SourceA> 
+    <SourceB>B2</SourceB> 
+    <SourceC>C2</SourceC> 
+  </SourceLoop>
+  <SourceLoop>
+    <SourceA>A3</SourceA> 
+    <SourceB>B3</SourceB> 
+    <SourceC>C3</SourceC> 
+  </SourceLoop>
+</ns0:Source>

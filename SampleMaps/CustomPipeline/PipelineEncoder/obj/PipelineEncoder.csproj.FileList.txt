@@ -1,0 +1,5 @@
+obj\Debug\ResolveAssemblyReference.cache
+bin\Debug\EDI_X12EnvelopeEncoder.dll
+bin\Debug\EDI_X12EnvelopeEncoder.pdb
+obj\Debug\EDI_X12EnvelopeEncoder.dll
+obj\Debug\EDI_X12EnvelopeEncoder.pdb

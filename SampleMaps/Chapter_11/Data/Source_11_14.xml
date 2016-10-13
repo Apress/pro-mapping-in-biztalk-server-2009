@@ -1,0 +1,47 @@
+<ns0:ClientsByName xmlns:ns0="http://ClientsByName">
+    <Name>
+        <Name>ARTHUR ANDREWS</Name>
+        <ParentChildFlag>P</ParentChildFlag>
+        <ParentName/>
+            </Name>
+    <Name>
+        <Name>BONNIE BLUE</Name>
+        <ParentChildFlag>P</ParentChildFlag>
+        <ParentName/>
+    </Name>
+    <Name>
+        <Name>CINDY LOU</Name>
+        <ParentChildFlag>P</ParentChildFlag>
+        <ParentName/>
+    </Name>
+    <Name>
+        <Name>DIANE DOODY</Name>
+        <ParentChildFlag>C</ParentChildFlag>
+        <ParentName>DOUG DOODY</ParentName>
+    </Name>
+    <Name>
+        <Name>BETTY BLUE</Name>
+        <ParentChildFlag>C</ParentChildFlag>
+        <ParentName>BONNIE BLUE</ParentName>
+    </Name>
+    <Name>
+        <Name>ANDY ANDREWS</Name>
+        <ParentChildFlag>C</ParentChildFlag>
+        <ParentName>ARTHUR ANDREWS</ParentName>
+    </Name>
+    <Name>
+        <Name>CHARLIE LOU</Name>
+        <ParentChildFlag>C</ParentChildFlag>
+        <ParentName>CINDY LOU</ParentName>
+    </Name>
+    <Name>
+        <Name>DANDY DOODY</Name>
+        <ParentChildFlag>C</ParentChildFlag>
+        <ParentName>DOUG DOODY</ParentName>
+    </Name>
+    <Name>
+        <Name>DOUG DOODY</Name>
+        <ParentChildFlag>P</ParentChildFlag>
+        <ParentName/>
+    </Name>
+</ns0:ClientsByName>

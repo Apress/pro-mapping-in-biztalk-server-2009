@@ -1,0 +1,20 @@
+<ns0:AdvancedShipNotice xmlns:ns0="http://tempuri.org/AdvancedShipNotice.xsd">
+    <Shipment>
+        <ShipmentID>907161318</ShipmentID>
+        <ShipmentPurposeCode>00</ShipmentPurposeCode>
+        <ShipmentDate>20081104</ShipmentDate>
+        <ShipmentTime>1634</ShipmentTime>
+        <PONumber>BTB281155</PONumber>
+        <PODate>20081102</PODate>
+        <Item>
+            <ItemLineNo>0001</ItemLineNo>
+            <PartNumber>978-1-4302-1857-9</PartNumber>
+            <QuantityShipped>100</QuantityShipped>
+        </Item>
+        <Item>
+            <ItemLineNo>0002</ItemLineNo>
+            <PartNumber>1857-9-TRG</PartNumber>
+            <QuantityShipped>200</QuantityShipped>
+        </Item>
+    </Shipment>
+</ns0:AdvancedShipNotice>

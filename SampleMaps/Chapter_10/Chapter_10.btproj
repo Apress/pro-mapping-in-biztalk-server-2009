@@ -1,0 +1,131 @@
+﻿<VisualStudioProject>
+    <BIZTALK
+        ProductVersion = "3.6.1404"
+        SchemaVersion = "1.0"
+        ProjectGuid = "{EC61F5CC-1FCE-47F0-9320-7B5838D198CC}"
+    >
+        <Build>
+            <Settings>
+                <EditorCommon/>
+                <ProjectCommon
+                    AssemblyKeyName = ""
+                    AssemblyKeyFile = ""
+                    AssemblyDelaySign = "False"
+                    AssemblyTitle = ""
+                    AssemblyDescription = ""
+                    AssemblyDefaultAlias = ""
+                    AssemblyConfiguration = ""
+                    AssemblyTrademark = ""
+                    AssemblyProduct = ""
+                    AssemblyInformationalVersion = "1.0.0.0"
+                    AssemblyFileVersion = "1.0.0.0"
+                    AssemblyCopyright = ""
+                    AssemblyCompany = ""
+                    AssemblyVersion = "1.0.0.0"
+                    DefaultNamespace = "Chapter_10"
+                    AssemblyName = "Chapter_10"
+                />
+                <Config
+                    Name = "Development"
+                    ApplicationName = ""
+                    BpelCompliance = "True"
+                    GenerateDebuggingInformation = "True"
+                    EmbedTrackingInformation = "True"
+                    TreatWarningsAsErrors = "False"
+                    WarningLevel = "4"
+                    OutputPath = "bin\Development\"
+                />
+                <Config
+                    Name = "Deployment"
+                    ApplicationName = ""
+                    BpelCompliance = "True"
+                    GenerateDebuggingInformation = "False"
+                    EmbedTrackingInformation = "True"
+                    TreatWarningsAsErrors = "False"
+                    WarningLevel = "4"
+                    OutputPath = "bin\Deployment\"
+                />
+            </Settings>
+            <References>
+                <Reference
+                    Name = "System"
+                    AssemblyName = "System"
+                />
+                <Reference
+                    Name = "System.XML"
+                    AssemblyName = "System.Xml"
+                />
+                <Reference
+                    Name = "System.configuration"
+                    AssemblyName = "System.Configuration"
+                />
+                <Reference
+                    Name = "Microsoft.BizTalk.DefaultPipelines"
+                    AssemblyName = "Microsoft.BizTalk.DefaultPipelines"
+                />
+                <Reference
+                    Name = "Microsoft.BizTalk.GlobalPropertySchemas"
+                    AssemblyName = "Microsoft.BizTalk.GlobalPropertySchemas"
+                />
+                <Reference
+                    Name = "SQLDataLookup"
+                    AssemblyName = "SQLDataLookup"
+                    HintPath = "..\CommonFunctions\SQLDataLookup\bin\Debug\SQLDataLookup.dll"
+                />
+            </References>
+        </Build>
+        <Files>
+            <Include>
+                <File
+                    RelPath = "AddressSourceFile.xsd"
+                    BuildAction = "Compile"
+                    Namespace = "Chapter_10"
+                    Type = "AddressSourceFile"
+                />
+                <File
+                    RelPath = "External_10_1.btm"
+                    BuildAction = "Compile"
+                    Namespace = "Chapter_10"
+                    Type = "FlatFile01_Script"
+                />
+                <File
+                    RelPath = "External_10_10.btm"
+                    BuildAction = "Compile"
+                    Namespace = "Chapter_10"
+                    Type = "LookupFunctoid02_MultiValue"
+                />
+                <File
+                    RelPath = "External_10_2.btm"
+                    BuildAction = "Compile"
+                    Namespace = "Chapter_10"
+                    Type = "External_10_2"
+                />
+                <File
+                    RelPath = "External_10_3.btm"
+                    BuildAction = "Compile"
+                    Namespace = "Chapter_10"
+                    Type = "External_10_3"
+                />
+                <File
+                    RelPath = "External_10_4.btm"
+                    BuildAction = "Compile"
+                    Namespace = "Chapter_10"
+                    Type = "array"
+                />
+                <File
+                    RelPath = "External_10_7.btm"
+                    BuildAction = "Compile"
+                    Namespace = "Chapter_10"
+                    Type = "External_10_7"
+                />
+                <File
+                    RelPath = "TargetFile.xsd"
+                    BuildAction = "Compile"
+                    Namespace = "Chapter_10"
+                    Type = "TargetFile"
+                />
+            </Include>
+        </Files>
+    </BIZTALK>
+</VisualStudioProject>
+

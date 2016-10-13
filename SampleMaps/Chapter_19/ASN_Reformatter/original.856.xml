@@ -1,0 +1,49 @@
+<EliteASN>
+    <ASNHeader/>
+    <BOL>
+        <BSN BSN01="00" BSN02="07438" BSN03="2006-05-18" BSN04="00:00"/>
+        <HLLoopShipment>
+            <HL_S HL01="1" HL03="S"/>
+            <TD1_S TD101="CTN25" TD102="94" TD106="G" TD107="804.824" TD108="LB"/>
+            <TD5_S TD501="B" TD502="2" TD503="AVRT" TD504="G" TD505="MOTOR CO"/>
+            <REF_S REF01="BM" REF02="07438770021167515"/>
+            <N1Loop_S>
+                <N1_S N101="SF" N103_1="1" N104_1="234" N103_91="91" N104_91=""/>
+            </N1Loop_S>
+            <N1Loop_S>
+                <N1_S N101="ST" N103_1="1" N104_1="" N103_91="91" N104_91="345"/>
+                <N3_S N301="11000 MY STREET" N302=""/>
+                <N4_S N401="MY TOWN" N402="KY" N403="40299" N404="US"/>
+            </N1Loop_S>
+            <HLLoopOrder>
+                <HL1_O HL01="1" HL02="2" HL03="O"/>
+                <PRF_O PRF01="0049733306"/>
+                <REF_O REF01="IV" REF02=""/>
+                <N1Loop_O>
+                    <N1_O N101="BY" N102="MY TOWN" N103="92" N104="0025"/>
+                </N1Loop_O>
+                <HLLoopTare>
+                    <HLLoopPack>
+                        <HL1_P HL01="3" HL02="1" HL03="P"/>
+                        <PO4_P PO405="LB" PO406="9.86"/>
+                        <HLLoopItem>
+                            <HL1_I HL01="4" HL02="3" HL03="I"/>
+                            <LIN_I CB_LIN02="CB" UP_LIN02="UP" UP_LIN03="743877010047"/>
+                            <SN1_I SN102="12" SN103="EA" SN105="48" SN106="EA"/>
+                        </HLLoopItem>
+                    </HLLoopPack>
+                    <HLLoopPack>
+                        <HL1_P HL01="5" HL02="1" HL03="P"/>
+                        <PO4_P PO405="LB" PO406="9.86"/>
+                        <HLLoopItem>
+                            <HL1_I HL01="6" HL02="5" HL03="I"/>
+                            <LIN_I CB_LIN02="UP" UP_LIN03="743877010047"/>
+                            <SN1_I SN102="12" SN103="EA" SN105="48" SN106="EA"/>
+                        </HLLoopItem>
+                    </HLLoopPack>
+                </HLLoopTare>
+            </HLLoopOrder>
+        </HLLoopShipment>
+        <CTT CTT01="193"/>
+    </BOL>
+</EliteASN>
